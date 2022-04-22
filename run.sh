@@ -1,0 +1,1 @@
+python train.py --img 1024 --batch 2 --epochs 5 --data mydataset/data.yaml --weights yolov5s.pt --workers 2 --device cuda:0 --optimizer Adam
