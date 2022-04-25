@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1,2 python -m torch.distributed.launch --nproc_per_node 2 train.py configs/myconfig1.py --work-dir runs/train

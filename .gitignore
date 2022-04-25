@@ -5,3 +5,6 @@ mydataset
 mydataset1
 .github
 mydataset1.zip
+yolo_data
+mmdetection\_COCO_format
+model2/resnest50_d2-7497a55b.pth
